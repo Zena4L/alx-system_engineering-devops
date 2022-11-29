@@ -1,1 +1,1 @@
-A Bash course project
+This is a shell basi repo
