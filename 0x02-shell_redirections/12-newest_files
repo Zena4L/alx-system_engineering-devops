@@ -1,0 +1,2 @@
+#!/bin/bash
+less -t | head -10
