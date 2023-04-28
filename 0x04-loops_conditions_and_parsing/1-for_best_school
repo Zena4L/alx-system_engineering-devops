@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Best School
+# Best School dispaly 10 times
 
 if (( i=0; i<10; i++ ))
 do
